@@ -1,6 +1,6 @@
 ### Hi, I'm Ismet👋
 
-<strong>I am Senior undergraduate student at Boğaziçi University. I have been working at [Dataroid](https://www.dataroid.com/) as Software Engineer, living in Istanbul/Turkey.</strong>
+<strong>I have been working at [Dataroid](https://www.dataroid.com/) as Software Engineer, living in Istanbul/Turkey.</strong>
 
 ## Social 📱
 You can find me on the following social media platforms or send me an email:
